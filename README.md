@@ -10,4 +10,4 @@ especially since they usually have zero coding knowledge, and are in grade 8 or 
 ## What to do for interns?
 The code has deliberate bugs and also some weird implementation choices for interns to find and fix. Also plenty of room to extend it with more features.
 I already used this example as exercise for interns for a few years before uploading it. Sometimes they had to reimplement it with WPF or just change a few things,
-depending on their skill and how fast they leaned the basics before staring this.
+depending on their skill and how fast they leaned the basics before starting this.
